@@ -1,4 +1,3 @@
-// import React from 'react';
 import React, { Component, constructor, useEffect, useState } from "react";
 import { Input } from 'react-native-elements';
 import {
