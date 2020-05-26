@@ -6,7 +6,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Poki />
-      {/* <Text>Open up App.tsx to start working on your app!</Text> */}
     </View>
   );
 }
